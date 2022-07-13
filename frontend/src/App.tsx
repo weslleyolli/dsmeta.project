@@ -1,6 +1,5 @@
-import Header from "./Componentes/header"
-import SalesCard from "./Componentes/SalesCard"
-
+import Header from "./Componentes/header";
+import SalesCard from "./Componentes/SalesCard";
 function App() {
   return (
     <>
@@ -16,4 +15,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
